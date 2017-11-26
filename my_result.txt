@@ -1,0 +1,7 @@
+                 Resultados Data grupo 7
+---------------------------------------------------------------------
+- Total de datos contenidos en la base:3334
+- Training data usada: 3200 observaciones ([0:1600]->1,[1600:3200]->-1)
+- Testing para la caracteristica 1605: 1
+- Kernel: linear
+- C keyargs for badly classify: 1.0
